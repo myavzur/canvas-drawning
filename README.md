@@ -1,6 +1,6 @@
 ## Preview
 
-![Paint Preview](https://github.com/xQ-zie/Game-Of-Thrones-Database/raw/main/Paint_Preview.jpg "Preview")
+![Paint Preview](https://github.com/xQ-zie/Paint.meat/raw/main/Paint_Preview.jpg "Preview")
 
 ## This app is running on github pages
 
