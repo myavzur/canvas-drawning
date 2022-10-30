@@ -4,4 +4,4 @@
 
 ## This App is Running On Github Pages
 
-[Check this out](https://xq-zie.github.io/Paint.meat/)
+[Check this out](https://myavzur.github.io/Paint.meat/)
